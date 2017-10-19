@@ -1,1 +1,1 @@
-# Avimly
+console.log("Hello World");
